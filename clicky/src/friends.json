@@ -1,0 +1,64 @@
+[
+    {
+      "id": 1,
+      "image": "https://images.pexels.com/photos/282893/pexels-photo-282893.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "clicked": false
+    },
+    {
+      "id": 2,
+      "image": "https://images.pexels.com/photos/236636/pexels-photo-236636.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "clicked": false
+    
+    },
+    {
+      "id": 3,
+      "image": "https://images.pexels.com/photos/634613/pexels-photo-634613.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "clicked": false
+    
+    },
+    {
+      "id": 4,
+      "image": "https://images.pexels.com/photos/208866/pexels-photo-208866.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "clicked": false  
+    },
+    {
+      "id": 5,
+      "image": "https://images.pexels.com/photos/459341/pexels-photo-459341.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "clicked": false
+    },
+    {
+      "id": 6,
+      "image": "https://images.pexels.com/photos/1203309/pexels-photo-1203309.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "clicked": false
+    },
+    {
+      "id": 7,
+      "image": "https://images.pexels.com/photos/460991/pexels-photo-460991.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "clicked": false
+    },
+    {
+      "id": 8,
+      "image": "https://images.pexels.com/photos/1411709/pexels-photo-1411709.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "clicked": false
+    },
+    {
+      "id": 9,
+      "image": "https://images.pexels.com/photos/209045/pexels-photo-209045.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "clicked": false
+    },
+    {
+      "id": 10,
+      "image": "https://images.pexels.com/photos/53136/saddle-horse-cowboy-western-53136.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "clicked": false
+    },
+    {
+      "id": 11,
+      "image": "https://images.pexels.com/photos/9797/animal-silhouette-horizon-horse.jpg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "clicked": false
+    },
+    {
+      "id": 12,
+      "image": "https://images.pexels.com/photos/58897/pexels-photo-58897.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "clicked": false
+    }
+  ]
